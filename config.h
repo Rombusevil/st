@@ -7,7 +7,7 @@
  */
 //char font[] = "Joystix:pixelsize=16:antialias=true:autohint=true";
 //char font[] = "BPdotsSquares:pixelsize=16:antialias=true:autohint=true";
-char font[] = "Commodore 64 Angled:pixelsize=16:antialias=true:autohint=true";
+char font[] = "Commodore 64 Angled:pixelsize=13:antialias=true:autohint=true";
 int borderpx = 2;
 
 /*
@@ -136,8 +136,8 @@ unsigned int cursorshape = 2;
  * Default columns and rows numbers
  */
 
-unsigned int cols = 80;
-unsigned int rows = 24;
+unsigned int cols = 60;
+unsigned int rows = 30;
 
 /*
  * Default colour and shape of the mouse cursor
